@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\svchost.exe.config
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\svchost.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\svchost.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\svchost.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\svchost.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\svchost.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Debug\svchost.pdb

@@ -1,0 +1,13 @@
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\svchost.exe.config
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\svchost.exe
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\svchost.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\bin\Release\svchost.xml
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\svchost.exe
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\svchost.xml
+C:\Users\USER\documents\visual studio 2010\Projects\WindowsApplication12\WindowsApplication12\obj\x86\Release\svchost.pdb
